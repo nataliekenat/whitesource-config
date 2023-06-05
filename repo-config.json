@@ -6,6 +6,7 @@
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
+    "licenseCheckRunConclusionLevel": "failure",
     "displayMode": "diff",
     "useMendCheckNames": true
   },
