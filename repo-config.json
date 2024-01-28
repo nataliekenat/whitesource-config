@@ -3,13 +3,16 @@
     "configMode": "AUTO",
     "configExternalURL": "",
     "baseBranches": [],
-    "enableIaC": false
+    "enableIaC": true
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
     "displayMode": "diff",
     "useMendCheckNames": true
   },
+  "leastVulnerablePackageSettings": {
+"enabled": true
+},
   "issueSettings": {
     "minSeverityLevel": "LOW",
     "issueType": "DEPENDENCY"
@@ -18,5 +21,6 @@
     "workflowRules": {
       "enabled": true
     }
-  }
+  },
+  "enableRenovate": false
 }
