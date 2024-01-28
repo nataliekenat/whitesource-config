@@ -2,7 +2,7 @@
   "scanSettings": {
     "configMode": "AUTO",
     "configExternalURL": "",
-    "baseBranches": [],
+   "baseBranches": ["master", "main", "develop", "release"],
     "enableIaC": true
   },
   "checkRunSettings": {
