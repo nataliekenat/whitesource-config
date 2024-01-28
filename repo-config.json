@@ -2,8 +2,8 @@
   "scanSettings": {
     "configMode": "AUTO",
     "configExternalURL": "",
-   "baseBranches": ["master", "main", "develop", "release"],
-    "enableIaC": true
+   "baseBranches": [],
+    "enableIaC": false
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
