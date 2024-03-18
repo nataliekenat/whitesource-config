@@ -3,8 +3,9 @@
     "includedRepos": {
         "exactNames": [
             "nataliekenat/test",
-            "nataliekenat/test1"
+            "nataliekenat/test1",
+            "nataliekenat/test2"
         ]
     },
-    "enableCustomProductMapping": false
+    "enableCustomProductMapping": true
 }
