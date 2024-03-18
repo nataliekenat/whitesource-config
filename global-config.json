@@ -1,3 +1,9 @@
-{
-  "repoConfigMode": "nowhitesourceFile"
+
+    "repoConfigMode": "createOnboardingPR",
+    "includedRepos": {
+        "exactNames": [
+            "nataliekenat/test"
+        ]
+    },
+    "enableCustomProductMapping": true
 }
