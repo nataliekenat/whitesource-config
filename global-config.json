@@ -2,7 +2,8 @@
     "repoConfigMode": "createOnboardingPR",
     "includedRepos": {
         "exactNames": [
-            "nataliekenat/test"
+            "nataliekenat/test",
+            "nataliekenat/test1"
         ]
     },
     "enableCustomProductMapping": true
