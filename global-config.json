@@ -1,5 +1,5 @@
 {
-    "repoConfigMode": "createOnboardingPR"ת
+    "repoConfigMode": "createOnboardingPR",
     "includedRepos": {
         "exactNames": [
             "nataliekenat/test3",
