@@ -1,3 +1,9 @@
 {
-    "repoConfigMode": "createOnboardingPR"
+    "repoConfigMode": "createOnboardingPR"ת
+    "includedRepos": {
+        "exactNames": [
+            "nataliekenat/test3",
+        ]
+    },
+    "enableCustomProductMapping": true
 }
