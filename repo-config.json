@@ -26,7 +26,7 @@
     "severityThreshold": "high"
   },
   "issueSettings": {
-    "minSeverityLevel": "NONE",
+    "minSeverityLevel": "LOW",
     "displayLicenseViolations": false,
     "issueType": "DEPENDENCY"
   },
