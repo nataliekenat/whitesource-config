@@ -1,9 +1,0 @@
-{
-  "repositories": [
-    {
-      "fullName": "nataliekenat/Renovate_lock_update",
-      "branchName": "main",
-      "uploadScannerLogs": true
-    }
-  ]
-}
